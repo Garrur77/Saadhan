@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781729825890",
+    "project_id": "uber-user-844ac",
+    "storage_bucket": "uber-user-844ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781729825890:android:4e9df7d424855872633d3b",
+        "android_client_info": {
+          "package_name": "com.ponttual_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781729825890-07a6g3nu2s063sofvk871g4rd6gl00go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtdz0q21LDRyZ_oDOAVkCLFYH8o6U8228"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781729825890-07a6g3nu2s063sofvk871g4rd6gl00go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

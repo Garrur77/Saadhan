@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Saadhan</string>
+    <string name="facebook_app_id">923463429291933</string>
+<!-- <string name="web_client_id">995846131458-v1hod52kdlr2oq11v3lnp12nvv5alkl6.apps.googleusercontent.com</string> -->
+<string name="web_client_id">com.googleusercontent.apps.66041727332-iedf6eb8t8le19hb1vfejqbtv7pk21l1</string>
+
+</resources>
+

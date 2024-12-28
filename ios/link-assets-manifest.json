@@ -1,0 +1,109 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/Fonts/AntDesign.ttf",
+      "sha1": "4e77868439280fb434d4697c7b911271406c81f3"
+    },
+    {
+      "path": "src/assets/Fonts/Entypo.ttf",
+      "sha1": "12b5670eb178138f77285d5f2c246d3cc5fa67d6"
+    },
+    {
+      "path": "src/assets/Fonts/EvilIcons.ttf",
+      "sha1": "91d377ea3cf47490b256c2ed081704a7dabdae0c"
+    },
+    {
+      "path": "src/assets/Fonts/Feather.ttf",
+      "sha1": "e6604258b1ced5efd51360875d782fca65381d47"
+    },
+    {
+      "path": "src/assets/Fonts/FontAwesome.ttf",
+      "sha1": "13b1eab65a983c7a73bc7997c479d66943f7c6cb"
+    },
+    {
+      "path": "src/assets/Fonts/FontAwesome5_Brands.ttf",
+      "sha1": "3fa2d67cef22da5c3f3eb5730c6afbd6fecf0372"
+    },
+    {
+      "path": "src/assets/Fonts/FontAwesome5_Regular.ttf",
+      "sha1": "7d849a3981a716e2ba4a84634bc57d0b8054a6a3"
+    },
+    {
+      "path": "src/assets/Fonts/FontAwesome5_Solid.ttf",
+      "sha1": "c1b9fae262f42868c075ac865a8ab34920e20a2c"
+    },
+    {
+      "path": "src/assets/Fonts/FontAwesome6_Brands.ttf",
+      "sha1": "a14a91d8c170fc9e159040f6794369d829e0859e"
+    },
+    {
+      "path": "src/assets/Fonts/FontAwesome6_Regular.ttf",
+      "sha1": "dad3ad71b383789bb62c249742ef59e34685e7d0"
+    },
+    {
+      "path": "src/assets/Fonts/FontAwesome6_Solid.ttf",
+      "sha1": "3eb9b4b2ea22711b96e3b356196fd20b4f17fb0e"
+    },
+    {
+      "path": "src/assets/Fonts/Fontisto.ttf",
+      "sha1": "c090a3ec96a3f1bb9b615c2f3f204ce0dcdcdbc3"
+    },
+    {
+      "path": "src/assets/Fonts/FontsFree-Net-SF-UI-Display-Bold.ttf",
+      "sha1": "1a0caf75cae0f0e3217a59861dcf1a54864e362b"
+    },
+    {
+      "path": "src/assets/Fonts/FontsFree-Net-SF-UI-Display-Medium.ttf",
+      "sha1": "1df3f222be315ebdb91c4e2ab2d6861b740dd486"
+    },
+    {
+      "path": "src/assets/Fonts/FontsFree-Net-SF-UI-Display-Semibold.ttf",
+      "sha1": "46e035d47198306fe1fc9776f978133694c905f9"
+    },
+    {
+      "path": "src/assets/Fonts/FontsFree-Net-SFProDisplay-Light.ttf",
+      "sha1": "517af7eebd05cdafe07790446d6ba96fddfe09de"
+    },
+    {
+      "path": "src/assets/Fonts/Foundation.ttf",
+      "sha1": "4b2bce6c792493a4a5716b6fec2dbefe89492c3f"
+    },
+    {
+      "path": "src/assets/Fonts/Index.tsx",
+      "sha1": "572bc48056fcaaa39aff8db05fbf1e6f904c48c6"
+    },
+    {
+      "path": "src/assets/Fonts/Ionicons.ttf",
+      "sha1": "86e07c3d974eb09099e6e5a9b3b8310303cf0feb"
+    },
+    {
+      "path": "src/assets/Fonts/MaterialCommunityIcons.ttf",
+      "sha1": "4c2a838b00dbb5e8bb1b368fce0de534e8eb241c"
+    },
+    {
+      "path": "src/assets/Fonts/MaterialIcons.ttf",
+      "sha1": "7e02c3f005532ff4d24148567c84089756a7848a"
+    },
+    {
+      "path": "src/assets/Fonts/Octicons.ttf",
+      "sha1": "56acefc0731f35ee23b195b1c8cb5fa94a0db97b"
+    },
+    {
+      "path": "src/assets/Fonts/Roboto-Italic.ttf",
+      "sha1": "65f3f6a7e1bd2fa6f2df35e4b07775d7f1dde4f0"
+    },
+    {
+      "path": "src/assets/Fonts/SF-UI-Display-Regular.otf",
+      "sha1": "70be8a2e50a1debf83c1a850dc65e3f0e3c016f6"
+    },
+    {
+      "path": "src/assets/Fonts/SimpleLineIcons.ttf",
+      "sha1": "9ffb81a5a11112e292f2cc323e98486bad597599"
+    },
+    {
+      "path": "src/assets/Fonts/Zocial.ttf",
+      "sha1": "6a48a962b06cc3acbdfd61df0d9a34744eea5e8d"
+    }
+  ]
+}
