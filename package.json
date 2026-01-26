@@ -38,7 +38,7 @@
     "react": "18.2.0",
     "react-i18next": "^15.0.0",
     "react-native": "^0.72.5",
-    "react-native-asset": "^2.1.1",
+    "react-native-asset": "^2.2.8",
     "react-native-background-timer": "^2.4.1",
     "react-native-check-box": "^2.1.7",
     "react-native-country-codes-picker": "^2.3.4",
